@@ -4,3 +4,4 @@
 
 something something lorem ipsum
 
+![Programming Image placeholder](https://i.stack.imgur.com/9ACDe.jpg)
