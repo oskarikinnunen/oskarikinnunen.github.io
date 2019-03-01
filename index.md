@@ -1,7 +1,5 @@
-### This is my cv-page
+# This is my cv-page
 
-# this is just a test
-
-something something lorem ipsum
+### To be finished
 
 ![Programming Image placeholder](https://i.stack.imgur.com/9ACDe.jpg)
