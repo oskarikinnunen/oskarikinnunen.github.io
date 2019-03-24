@@ -1,9 +1,10 @@
 <h1 align="center"> Programming example </h1>
-<br/>
+
 <br/>
 
+<br/>
 
-<h2 align="center"> Unity 2D-noise editor </h1>
+<h2 align="center"> Unity 2D-noise editor </h1> <br/>
 
 Used for generating terrain-like 2D-noise. Doesn't output anything right now, but it's a WIP and I am probably going to use it in future projects.
 
