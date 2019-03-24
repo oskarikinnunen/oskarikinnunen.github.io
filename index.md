@@ -13,7 +13,7 @@ Currently you can change terrain layer and generation parameters. Layer settings
 
 <div align="center">
 <p> Code can be found here: </p>
-<a href="https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor"><img src="https://cdn3.iconfinder.com/data/icons/impressionist-icons/64/code.png" align="center" title="githubLink" alt="link"></a>
+<a href="https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor"><img src="https://cdn3.iconfinder.com/data/icons/impressionist-icons/64/code.png" align="center" alt="link"></a>
 <p>(I’m currently working on making it more readable/better overall)</p>
 </div>
 
