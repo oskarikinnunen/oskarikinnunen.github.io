@@ -4,7 +4,7 @@ Used for generating terrainlike 2D-noise. Doesn't output anything right now, but
 
 Currently you can change terrain layer and generation parameters. Layer settings can be saved in json format.
 
-Code can be found here: [<img src="https://addons-media.operacdn.com/media/extensions/95/91595/1.0.4-rev1/icons/icon_64x64.png">](https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor)
+Code can be found here: [<img src="https://cdn3.iconfinder.com/data/icons/impressionist-icons/64/code.png">](https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor)
 
 (I'm currently working on making it more readable, don't worry)
 
