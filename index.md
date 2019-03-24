@@ -10,6 +10,8 @@ Code can be found here: [<img src="https://cdn3.iconfinder.com/data/icons/impres
 
 ***
 
+## Gifs
+
 Changing noise settings
 ![Parametergif](Gifs/parameters.gif)
 
