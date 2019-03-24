@@ -7,3 +7,5 @@ Used for generating terrainlike 2D-noise. Doesn't output anything right now, but
 ### To be finished
 
 ![Programming Image placeholder](noiseEditPic0.PNG)
+___
+![Programming Image placeholder1](GIF.gif)
