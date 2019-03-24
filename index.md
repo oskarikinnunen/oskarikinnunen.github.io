@@ -6,6 +6,7 @@ Currently you can change terrain layer and generation parameters. Layer settings
 
 Code can be found here: [<img src="http://icons.iconarchive.com/icons/position-relative/social-2/128/github-icon.png">](https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor)
 
+(I'm currently working on making it more readable, don't worry)
 ***
 
 Changing noise settings
