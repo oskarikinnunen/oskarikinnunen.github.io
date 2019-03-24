@@ -10,9 +10,9 @@ Used for generating terrain-like 2D-noise. Doesn't output anything right now, bu
 
 Currently you can change terrain layer and generation parameters. Layer settings can be saved in json format.
 
+<a align="center">  
 Code can be found here: 
-
-<a align="center"> [<img src="https://cdn3.iconfinder.com/data/icons/impressionist-icons/64/code.png">](https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor) </a>
+[<img src="https://cdn3.iconfinder.com/data/icons/impressionist-icons/64/code.png">](https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor) </a>
 
 (I'm currently working on making it more readable, don't worry)
 
