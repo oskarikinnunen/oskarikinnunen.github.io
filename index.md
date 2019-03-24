@@ -2,7 +2,9 @@
 
 Used for generating terrainlike 2D-noise. Doesn't output anything right now, but it's a WIP and I am probably going to use it in future projects.
 
-Currently you can change terrain layer and generation parameters. Layer settings can be saved to json format.
+Currently you can change terrain layer and generation parameters. Layer settings can be saved in json format.
+
+Code can be found here: [<img src="http://www.google.com.au/images/nav_logo7.png">](https://github.com/oskarikinnunen/TerrainED2/tree/master/Assets/Scripts/Editor)
 
 ***
 
