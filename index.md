@@ -1,3 +1,5 @@
+<h1 align="center"> Programming example </h1>
+
 # Unity 2D-Terrain Editor
 
 Used for generating 2D-noise used for terrain. Doesn't output anything right now, but it's a WIP and I am probably going to use it in future projects.
