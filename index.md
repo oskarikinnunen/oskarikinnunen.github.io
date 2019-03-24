@@ -1,6 +1,6 @@
 # Unity 2D-Terrain Editor
 
-Used for generating terrainlike 2D-noise. Doesn't output anything right now, but it's a WIP and I am probably going to use it in future projects.
+Used for generating 2D-noise used for terrain. Doesn't output anything right now, but it's a WIP and I am probably going to use it in future projects.
 
 Currently you can change terrain layer and generation parameters. Layer settings can be saved in json format.
 
