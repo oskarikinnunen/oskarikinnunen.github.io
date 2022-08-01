@@ -12,4 +12,7 @@ These are some of my public programming examples <!--- Rewrite this sentence -->
 
 ### <img width="36" alt="Csharp" src="https://user-images.githubusercontent.com/45420297/182208301-cccdedaa-ff4c-4ef7-bef2-a5fb3110ccac.png">
 
-TarkovMapTool (TBD)
+[TarkovMapTool](https://github.com/oskarikinnunen/TarkovMapTool)
+
+Utility to be used with the game "Escape from Tarkov". Uses the Tesseract library for OCR and displays a 2D map depending on which level the user is about to enter.
+
