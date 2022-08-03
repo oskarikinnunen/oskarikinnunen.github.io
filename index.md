@@ -1,6 +1,6 @@
 # Programming portfolio
 
-These are some of my public programming examples <!--- Rewrite this sentence --> 
+<!--- Rewrite this sentence --> 
 
 
 
