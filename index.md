@@ -26,7 +26,7 @@ C standard library rewrite.
 <div markdown="1" style="width:500px;height:280px;">
 <img width="256" src="https://user-images.githubusercontent.com/45420297/182570002-e34dfc1b-821f-4262-8ebe-7d4537a69be8.png" alt="image" style="float: left; margin-right: 20px">
 
-## [TarkovMapTool](https://github.com/oskarikinnunen/TarkovMapTool)&nbsp;&nbsp;<img width="24" alt="Csharp" align="top" src="https://user-images.githubusercontent.com/45420297/182208301-cccdedaa-ff4c-4ef7-bef2-a5fb3110ccac.png"> <img width="24" alt="WPF" align="top" src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png">
+## [TarkovMap](https://github.com/oskarikinnunen/TarkovMapTool)&nbsp;&nbsp;<img width="24" alt="Csharp" align="top" src="https://user-images.githubusercontent.com/45420297/182208301-cccdedaa-ff4c-4ef7-bef2-a5fb3110ccac.png"> <img width="24" alt="WPF" align="top" src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png">
 
 Utility to be used with the game "Escape from Tarkov". Uses the Tesseract library for OCR and displays a 2D map depending on which level the user is about to enter.
 ##### [View source code](https://github.com/oskarikinnunen/TarkovMapTool)
