@@ -10,11 +10,14 @@ These are some of my public programming examples <!--- Rewrite this sentence -->
 C standard library rewrite.
 
 
-## [FDF](https://github.com/oskarikinnunen/PresentableFDF)&nbsp;&nbsp;<img width="24" alt="C" align="top" src="https://user-images.githubusercontent.com/45420297/182207766-f5c35203-078d-4aac-8a3a-d30e726694b2.png">
+## [FDF](https://github.com/oskarikinnunen/PresentableFDF)&nbsp;&nbsp;<img width="24" alt="C" align="top" float="right" src="https://user-images.githubusercontent.com/45420297/182207766-f5c35203-078d-4aac-8a3a-d30e726694b2.png">
+
+![image](https://user-images.githubusercontent.com/45420297/182204285-2939b41c-0981-4f6c-a111-b6c16aca1e5c.png){: style="float: left"}
+
 
 3D elevation map renderer.
 
-<img width="256" alt="Screen Shot 2022-08-01 at 8 06 04 PM" src="https://user-images.githubusercontent.com/45420297/182204285-2939b41c-0981-4f6c-a111-b6c16aca1e5c.png">
+<!--- <img width="256" alt="Screen Shot 2022-08-01 at 8 06 04 PM" src="https://user-images.githubusercontent.com/45420297/182204285-2939b41c-0981-4f6c-a111-b6c16aca1e5c.png"> -->
 
 ## [TarkovMapTool](https://github.com/oskarikinnunen/TarkovMapTool)&nbsp;&nbsp;<img width="24" alt="Csharp" align="top" src="https://user-images.githubusercontent.com/45420297/182208301-cccdedaa-ff4c-4ef7-bef2-a5fb3110ccac.png">
 
