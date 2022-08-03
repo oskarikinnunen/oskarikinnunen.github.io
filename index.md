@@ -40,6 +40,6 @@ Utility to be used with the game "Escape from Tarkov". Uses the Tesseract librar
 
 
 
-Remote controlled airsoft turret.
+Remote controlled airsoft turret..
 ##### [View source code](https://github.com/oskarikinnunen/airsoftturret)
 </div>
