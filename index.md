@@ -30,10 +30,11 @@ Utility to be used with the game "Escape from Tarkov". Uses the Tesseract librar
 </div>
 
 <div markdown="1" style="width:500px;height:280px;">
-<img width="256" src="https://user-images.githubusercontent.com/45420297/182575773-3e2f57d1-ef18-40ae-bd86-d3dd2931e69f.gif" alt="image" style="float: left; margin-right: 20px">
+<img width="256" src="https://user-images.githubusercontent.com/45420297/182583692-f90e39f8-b529-40d5-8b67-f84f265f446c.png" alt="image" style="float: left; margin-right: 20px">
 
 
 ## Turret &nbsp;&nbsp;<img width="24" alt="Csharp" align="top" src="https://user-images.githubusercontent.com/45420297/182208301-cccdedaa-ff4c-4ef7-bef2-a5fb3110ccac.png"> <img width="24" alt="C" align="top" float="right" src="https://user-images.githubusercontent.com/45420297/182207766-f5c35203-078d-4aac-8a3a-d30e726694b2.png"> <img width="24" alt="C" align="top" float="right" src="https://user-images.githubusercontent.com/45420297/182575575-deda2f12-79b3-4065-b43d-8725a7ac078c.png">
 
-Remote controller airsoft turret.
+
+Remote controlled airsoft turret.
 </div>
