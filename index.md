@@ -18,8 +18,7 @@ C standard library rewrite.
 
 3D elevation map renderer.
 
-
-<!--- <img width="256" alt="Screen Shot 2022-08-01 at 8 06 04 PM" src="https://user-images.githubusercontent.com/45420297/182204285-2939b41c-0981-4f6c-a111-b6c16aca1e5c.png"> -->
+<img width="256" src="https://user-images.githubusercontent.com/45420297/182570002-e34dfc1b-821f-4262-8ebe-7d4537a69be8.png" alt="image" style="float: left; margin-right: 20px">
 
 ## [TarkovMapTool](https://github.com/oskarikinnunen/TarkovMapTool)&nbsp;&nbsp;<img width="24" alt="Csharp" align="top" src="https://user-images.githubusercontent.com/45420297/182208301-cccdedaa-ff4c-4ef7-bef2-a5fb3110ccac.png">
 
