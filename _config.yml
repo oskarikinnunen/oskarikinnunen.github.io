@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Oskari Kinnunen
 description: Programming portfolio
+github:
+  is_project_page: false
