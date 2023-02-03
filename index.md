@@ -39,7 +39,7 @@ Utility to be used with the game "Escape from Tarkov". Uses the Tesseract librar
 ## [Sorting visualizer](https://oskarikinnunen.github.io/vuesort/)&nbsp;&nbsp;<img height="24" alt="Vuejs" align="top" src="https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png"> <img width="24" alt="JS" align="top" src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg">
 
 Insertion sort visualizer.
-I'm not a frontend developer but I took this project as a challenge to complete some kind of frontend project as fast as possible. Programming and publishing this took about 6 hrs, having never written javascript before.
+I'm not a frontend developer but I took this project as a challenge to complete some kind of frontend project as fast as possible.
 
 </div>
 
